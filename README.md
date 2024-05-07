@@ -45,9 +45,6 @@ The data set contains the following diseases:
 + Tensorflow & Keras
 + Glob
 
-## Acknowledgements
-+ This project was done part of the `Executive PG Programme in Machine Learning & AI - MLC45 batch.`
-
 Please find the contributor details below:
 + Name: Vijay Karma
 + Email ID: vijay.karma9791@gmail.com
